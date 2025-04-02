@@ -21,3 +21,13 @@ h3{
 #tr2{
     color:black;
 }
+
+body{
+    background-color: aquamarine;
+}
+
+#principal{
+    margin: auto;
+    height: 90%;
+    width: 90%;
+}
